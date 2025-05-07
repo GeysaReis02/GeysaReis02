@@ -1,4 +1,3 @@
-<img src="github-header-image">
 # 👩🏽‍💻 Geysa Reis
 
 **`Programadora e Designer`** 💻✏️
